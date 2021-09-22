@@ -6,7 +6,16 @@ I currently support cloud technologies specializing in [Azure App Services](http
 
 I look forward to reaching and helping more people by sharing my knowledge.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grobinson4)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/grobinson4/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grobinson4&layout=compact&theme=tokyonight" />
+</a>
+&nbsp;
+<a href="https://github.com/frobinson4/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=grobinson4&hide=issues&count_private=true&theme=tokyonight" />
+</a>
+
+
+
 
 
 
