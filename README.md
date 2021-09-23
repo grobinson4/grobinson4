@@ -62,7 +62,7 @@ Table of Contents
    1. Cloud Design patterns
    2. Database Design
    3. Messaging 
-3. Artifical Intelligence
+3. A.I.
    1. Computer Vision
    2. Machine Learning
    3. Speech 
