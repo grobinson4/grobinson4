@@ -50,7 +50,17 @@ I look forward to reaching and helping more people by sharing my knowledge.
 
 ---
 
+### 📺 Videos
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+
+---
+
+### 📘 Articles
+
+- [Troubleshooting App Service with Private Endpoint](www.google.com)
+- [Deployment Best Practices](www.google.com)
+- [Designing a Mixed Reality Solution](www.google.com)
+- [How to troubleshoot your App Service Keyvault Reference error](www.google.com)
 
 ---
 
