@@ -62,10 +62,10 @@ Table of Contents
    2. Database Design
    3. Messaging 
 3. Artifical Intelligence
-  1. Computer Vision
-  2. Machine Learning
-  3. Speech 
-  4. Language Understanding
+   1. Computer Vision
+   2. Machine Learning
+   3. Speech 
+   4. Language Understanding
    
 
 
