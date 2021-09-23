@@ -10,10 +10,7 @@ I look forward to reaching and helping more people by sharing my knowledge.
 <a href="https://github.com/grobinson4/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grobinson4&layout=compact&theme=tokyonight" />
 </a>
-&nbsp;
-<a href="https://github.com/frobinson4/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=grobinson4&hide=issues&count_private=true&theme=tokyonight" />
-</a>
+
 <br/>
 <br/>
 <a href="https://azure.microsoft.com/en-us/">
