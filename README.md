@@ -3,7 +3,7 @@
 
 I am a Technical Architect, my technical journey is about helping build and support systems that apply to business needs and our everyday life. 
 
-I currently support cloud technologies specializing in [Azure App Services](https://azure.microsoft.com/en-us/services/app-service/#overview) for [Microsoft](https://www.microsoft.com/en-us/).
+I currently support Azure cloud technologies specializing in [Azure App Services](https://azure.microsoft.com/en-us/services/app-service/#overview) for [Microsoft](https://www.microsoft.com/en-us/).
 
 I look forward to reaching and helping more people by sharing my knowledge.
 
