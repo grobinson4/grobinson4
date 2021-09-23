@@ -54,7 +54,7 @@ I look forward to reaching and helping more people by sharing my knowledge.
 
 Table of Contents
 1. [Cloud Computing](https://github.com/grobinson4/cloud-computing#cloud-computing)
-   1. Azure
+   1. [Azure](https://github.com/grobinson4/cloud-computing/tree/main/Azure)
    2. AWS
    3. Cloud Architecture
 2. Clean Architecture
