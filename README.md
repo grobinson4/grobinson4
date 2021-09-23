@@ -10,7 +10,7 @@ I look forward to reaching and helping more people by sharing my knowledge.
 <a href="https://github.com/grobinson4/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grobinson4&layout=compact&theme=tokyonight" />
 </a>
-
+<!--
 <br/>
 <br/>
 <a href="https://azure.microsoft.com/en-us/">
@@ -49,6 +49,7 @@ I look forward to reaching and helping more people by sharing my knowledge.
   <img align="center" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="50" height="50" />
 </a>
 &nbsp;
+-->
 
 ---
 
