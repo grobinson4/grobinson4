@@ -1,4 +1,5 @@
 ### Hi there 👋, my name is Gary! Welcome to my Github repository!
+---
 
 I am a Technical Architect, my technical journey is about helping build and support systems that apply to business needs and our everyday life. 
 
@@ -13,7 +14,46 @@ I look forward to reaching and helping more people by sharing my knowledge.
 <a href="https://github.com/frobinson4/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=grobinson4&hide=issues&count_private=true&theme=tokyonight" />
 </a>
+<br/>
+<br/>
+<a href="https://azure.microsoft.com/en-us/">
+  <img align="center" src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure logo" width="50" height="50" />
+</a>
+&nbsp;
+<a href="https://aws.amazon.com/">
+  <img align="center" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="Azure logo" width="50" height="50" />
+</a>
+&nbsp;
+<a href="https://nodejs.org/en/">
+  <img align="center" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Azure logo" width="50" height="50" />
+</a>
+&nbsp;
+<a href="https://www.javascript.com/">
+  <img align="center" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Azure logo" width="50" height="50" />
+</a>
+&nbsp;
+<a href="https://dotnet.microsoft.com/">
+  <img align="center" src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" width="50" height="50" />
+</a>
+&nbsp;
+<a href="https://code.visualstudio.com/">
+  <img align="center" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="50" height="50" />
+</a>
+&nbsp;
+<a href="https://www.npmjs.com/">
+  <img align="center" src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="50" height="50" />
+</a>
+&nbsp;
+<a href="https://www.mysql.com/">
+  <img align="center" src="https://cdn.worldvectorlogo.com/logos/mysql-2.svg" width="50" height="50" />
+</a>
+&nbsp;
+<a href="https://www.mongodb.com/">
+  <img align="center" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="50" height="50" />
+</a>
+&nbsp;
 
+---
 
 
 
