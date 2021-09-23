@@ -7,9 +7,6 @@ I currently support Azure cloud technologies specializing in [Azure App Services
 
 I look forward to reaching and helping more people by sharing my knowledge.
 
-<a href="https://github.com/grobinson4/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grobinson4&layout=compact&theme=tokyonight" />
-</a>
 <!--
 <br/>
 <br/>
@@ -53,7 +50,11 @@ I look forward to reaching and helping more people by sharing my knowledge.
 
 ---
 
-## Table of Contents
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+
+---
+
+### 📑 Table of Contents
 1. [Cloud Computing](https://github.com/grobinson4/cloud-computing#cloud-computing)
    1. [Azure](https://github.com/grobinson4/cloud-computing/tree/main/Azure)
    2. AWS
@@ -67,7 +68,12 @@ I look forward to reaching and helping more people by sharing my knowledge.
    2. Machine Learning
    3. Speech 
    4. Language Understanding
-   
+
+---
+
+<a href="https://github.com/grobinson4/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grobinson4&layout=compact&theme=tokyonight" />
+</a>
 
 
 
