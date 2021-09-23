@@ -49,11 +49,12 @@ I look forward to reaching and helping more people by sharing my knowledge.
 -->
 
 ---
-
+<!--
 ### 📺 Videos
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
 ---
+-->
 
 ### 📘 Articles
 
