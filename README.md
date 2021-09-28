@@ -82,7 +82,7 @@ I look forward to reaching and helping more people by sharing my knowledge.
 ---
 
 <a href="https://github.com/grobinson4/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grobinson4&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grobinson4&layout=compact" />
 </a>
 
 
