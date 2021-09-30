@@ -4,7 +4,6 @@
 I currently support Azure cloud technologies specializing in [Azure App Services](https://azure.microsoft.com/en-us/services/app-service/#overview) for [Microsoft](https://www.microsoft.com/en-us/).
 
 I look forward to reaching and helping more people by sharing my knowledge.
-
 <!--
 <br/>
 <br/>
