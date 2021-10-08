@@ -4,6 +4,7 @@
 I currently support Azure cloud technologies specializing in [Azure App Services](https://azure.microsoft.com/en-us/services/app-service/#overview) for [Microsoft](https://www.microsoft.com/en-us/).
 
 I look forward to reaching and helping more people by sharing my knowledge.
+
 <!--
 <br/>
 <br/>
@@ -83,6 +84,8 @@ I look forward to reaching and helping more people by sharing my knowledge.
    3. Augmented Reality
 
 ---
+
+[<img src="microsoft-certified-azure-fundamentals_.png" width="70"/>](microsoft-certified-azure-fundamentals_.png)
 
 <a href="https://github.com/grobinson4/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grobinson4" />
