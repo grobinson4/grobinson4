@@ -85,6 +85,10 @@ I look forward to reaching and helping more people by sharing my knowledge.
 
 ---
 
+### :scroll: Languages and Certifications
+
+
+
 [<img src="microsoft-certified-azure-fundamentals_.png" width="70"/>](microsoft-certified-azure-fundamentals_.png)
 
 <a href="https://github.com/grobinson4/github-readme-stats">
