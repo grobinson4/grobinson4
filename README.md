@@ -78,6 +78,11 @@ I look forward to reaching and helping more people by sharing my knowledge.
    3. Speech 
    4. Language Understanding
 
+4. Mixed Reality
+   1. WebXR
+   2. Virtual Reality
+   3. Augmented Reality
+
 ---
 
 <a href="https://github.com/grobinson4/github-readme-stats">
