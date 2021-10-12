@@ -82,6 +82,7 @@ I look forward to reaching and helping more people by sharing my knowledge.
    1. WebXR
    2. Virtual Reality
    3. Augmented Reality
+5. Programming Fundamentals
 
 ---
 
