@@ -86,6 +86,7 @@ I look forward to reaching and helping more people by sharing my knowledge.
 6. Data
    1. Data Analysis 
    2. Data Visualization
+7. Projects
 
 ---
 
