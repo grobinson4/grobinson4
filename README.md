@@ -68,26 +68,8 @@ I look forward to reaching and helping more people by sharing my knowledge.
 ### 📑 Table of Contents
 1. Cloud Computing
    1. [Azure](https://github.com/grobinson4/cloud-computing/tree/main/Azure)
-   2. AWS
    3. [Cloud Architecture](https://github.com/grobinson4/cloud-architecture#cloud-architecture)
-2. Clean Architecture
-   1. Cloud Design patterns
-   2. Database Design
-   3. Messaging 
-3. A.I.
-   1. Computer Vision
-   2. Machine Learning
-   3. Speech 
-   4. Language Understanding
-4. Mixed Reality
-   1. WebXR
-   2. Virtual Reality
-   3. Augmented Reality
-5. Programming Fundamentals
-6. Data
-   1. Data Analysis 
-   2. Data Visualization
-7. Projects
+
 
 ---
 
