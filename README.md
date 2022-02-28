@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Gary! Welcome to my Github repository!
+### Welcome to my Github repository!
 ---
 
 I currently support Azure cloud technologies specializing in [Azure App Services](https://azure.microsoft.com/en-us/services/app-service/#overview) for [Microsoft](https://www.microsoft.com/en-us/).
